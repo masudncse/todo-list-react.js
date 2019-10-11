@@ -10,6 +10,6 @@ This is an sample project on react.
 
 ## Screenshot
 
-![Screenshot](https://github.com/masudncse/react-todo-list-example/blob/master/screenshot/1.PNG)
-![Screenshot](https://github.com/masudncse/react-todo-list-example/blob/master/screenshot/2.PNG)
-![Screenshot](https://github.com/masudncse/react-todo-list-example/blob/master/screenshot/3.PNG)
+![1](https://github.com/masudncse/react-todo-list-example/blob/master/screenshot/1.PNG)
+![2](https://github.com/masudncse/react-todo-list-example/blob/master/screenshot/2.PNG)
+![3](https://github.com/masudncse/react-todo-list-example/blob/master/screenshot/3.PNG)
